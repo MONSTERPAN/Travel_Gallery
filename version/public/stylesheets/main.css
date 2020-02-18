@@ -1,0 +1,46 @@
+.thumbnail img {
+    width: 100%;
+}
+
+body{
+    
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+.jumbotron{
+    background-color: rgb(213, 247, 245);
+}
+
+.delete-form{
+    display: inline;
+}
+
+/* #animation{
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.6s linear;
+}
+
+.thumbnail:hover #animation{
+    visibility: visible;
+    opacity: 1;
+} */
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#Googlemap{
+    padding:0;
+}
+
+
+
